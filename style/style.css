@@ -96,7 +96,8 @@ body{
     }
     .login{
         background: linear-gradient(180deg, #2B5876 0%, #4E4376 88.55%);
-        border-radius: 20px;
+        width: 100%;
+        height: 100%;
     }
     .main-container{
         color: white;
@@ -114,8 +115,7 @@ body{
     .input{
         background: rgba(238, 235, 221, 0.64);
         border-radius: 8px;
-        width: 100%;
-        height: 100%;
+
     }
     .footer{
         display: grid;
