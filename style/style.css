@@ -101,6 +101,7 @@ body{
     }
     .main-container{
         color: white;
+        transform: scale(.9,.9);
     }
     .tittle{
         font-size: 24px;
